@@ -16,10 +16,10 @@ Den här Node.js-applikationen använder biblioteket `sharp` för att konvertera
 ## Installation
 
 1. Klona eller ladda ner detta repository.
-2. Installera beroenden med:
+2. Installera med:
 
    ```bash
-   npm install sharp
+   npm install
 
 
 ### Av
